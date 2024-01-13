@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "VuePress Starter",
+  "main": "index.js",
+  "repository": "github.com/ahjdzx/vuepress-starter.git",
+  "author": "Xin Zhang",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
