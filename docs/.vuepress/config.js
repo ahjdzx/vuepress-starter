@@ -1,6 +1,8 @@
 module.exports = {
   title: "Xxx 文档",
   description: "Xxx 最新官方文档翻译",
+  base: "/vuepress-starter/",
+  theme: "reco",
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
@@ -26,5 +28,11 @@ module.exports = {
         ],
       },
     ],
+    subSidebar: "auto",
+  },
+  locales: {
+    "/": {
+      lang: "zh-CN",
+    },
   },
 };
