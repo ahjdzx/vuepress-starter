@@ -47,3 +47,6 @@ VuePress 会在 http://localhost:8080 (opens new window) 启动一个热重载�
 
 > 注:如何此处报错,可能是 node 版本过高导致,需要将如下环境变量添加到启动脚本命令中.
 > `NODE_OPTIONS=--openssl-legacy-provider`
+
+
+> 参考: https://github.com/mqyqingfeng/Blog/issues/235
